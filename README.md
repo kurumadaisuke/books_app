@@ -24,4 +24,3 @@ Things you may want to cover:
 * ...
 # books_app
 # books_app
-TEST TEST
